@@ -1,6 +1,6 @@
 {
-  "name": "Smart Accounting",
-  "short_name": "SmartAccount",
+  "name": "Time Table",
+  "short_name": "Time Table",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1e1b4b",
